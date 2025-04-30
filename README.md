@@ -4,9 +4,6 @@
 Blender is required to see the robot model. To ensure compatibility, **please use Unity version 60000.0.23f1**. It can be downloaded from the [Download Archive](https://unity.com/releases/editor/archive) or through the prompt when you try and open the project in the Unity Editor.
 Once you have added the project folder to the Unity Editor, open the "Scenes" folder in the Project pannel at the bottom middle and double-click on "SampleScene" to load it.
 
-## Commits & Branches
-All code relating to the project should be uploaded here. **Please create your own branch based on the experimental branch** when working on the project. After you're happy with the changes you've made, please submit a pull request to the **experimental** branch.
-
 ## GitHub Issues
 Can't push to the project because it's over the max file size? Install Git LFS by following [this](https://youtu.be/4Ln6iRh_LTo?si=KRxTPb_Uksmj8gZP) tutorial.
 Can't pull the project because the file name is too long? Open Git Bash or Powershell and run ```git config --global core.longpaths true```.
